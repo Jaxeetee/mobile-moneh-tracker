@@ -1,0 +1,1 @@
+C:\Users\Jacob\Documents\My Labs\MoolahTracker\MoolahTracker\MoolahTracker.csproj;x64
